@@ -1,0 +1,16 @@
+# backend/requirements.txt
+fastapi
+uvicorn
+python-multipart
+python-jose
+passlib
+pydantic
+sqlalchemy
+psycopg2-binary
+redis
+ultralytics
+torch
+opencv-python-headless
+pytube
+python-dotenv
+websockets
